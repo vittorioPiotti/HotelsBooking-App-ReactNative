@@ -66,3 +66,8 @@ Le schermate sono state acquisite da un dispositivo IOS
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/profilo.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_email.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_password.PNG" alt="Icona" width="200"/>| 
 
+
+| Elimina| Vedi Prenotati | 
+| ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/elimina_profilo.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/assistenza.PNG" alt="Icona" width="200"/>|
+
