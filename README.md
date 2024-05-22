@@ -34,35 +34,35 @@ Le schermate sono state acquisite da un dispositivo IOS
 
 | Onboarding| 
 | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/onboarding.PNG" alt="Icona" width="150"/> | 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/onboarding.PNG" alt="Icona" width="120"/> | 
 
 
 ## Alberghi
 
 | Lista Hotels| Hotel Scelto | Lista Stanze | 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="150"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="150"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="150"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="120"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="120"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="120"/>| 
 
 ## Permessi Utente
 
 | Prenota| Vedi Prenotati | 
 | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_prenotazione_accesso.PNG" alt="Icona" width="150"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazioni_accesso.PNG" alt="Icona" width="150"/>|
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_prenotazione_accesso.PNG" alt="Icona" width="120"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazioni_accesso.PNG" alt="Icona" width="120"/>|
 
 ## Autenticazione
 
 | Lista Hotels| Hotel Scelto | Lista Stanze | 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="150"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="150"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="150"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="120"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="120"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="120"/>| 
 
 ## Profilo
 
 | Impostazioni| 
 | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/impostazioni.PNG" alt="Icona" width="150"/> | 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/impostazioni.PNG" alt="Icona" width="120"/> | 
 
 
 | Lista Hotels| Hotel Scelto | Lista Stanze | 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="150"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="150"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="150"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="120"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="120"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="120"/>| 
 
