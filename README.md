@@ -30,17 +30,20 @@ Applicazione Gestione Hotel: [Link all'App](https://sl2gz4.csb.app/GestioneHotel
 
 Le schermate sono state acquisite da un dispositivo IOS 
 
+## Effettuo Prenotazione
+
+| Lista Hotels| 
+| ------------ | 
+| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/hotels.png" alt="Icona" width="300"/> | 
+
+
 ## Profilo
 
 | Auth| Login | Profilo | 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/auth.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/login.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/edit.png" alt="Icona" width="300"/>| 
 
-## Effettuo Prenotazione
 
-| Lista Hotels| 
-| ------------ | 
-| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/hotels.png" alt="Icona" width="400"/> | 
 
 
 ## Effettuo Prenotazione
