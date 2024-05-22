@@ -235,12 +235,12 @@ L’applicazione è pronta per essere eseguita localmente.
 
 ### Sviluppi Futuri
 
-Importazione di una libreria apposita per la gestione del routing come “React Navigation”
-  - _Il routing tra le schermate è attualmente gestito senza librerie esterne._
-Importazione di una libreria per una più efficiente per la gestione delle richieste HTTPS come “Axios”
-  - _Attualmente si ha preferito utilizzare le “Fetch” perché sono native._
-Importazione di una libreria per la memorizzazione degli accessi con token di accesso come “AsyncStorage”
-  - _Attualmente l’accesso si perde alla chiusura dell’app_
-  - _L’accesso alle pagine che necessitano dell’autenticazione è gestito da uno useState._
-Importazione di una libreria per criptare la password prima di inviarla nella richiesta come “crypto-js”.
-  - _Attualmente per garantire la sicurezza dei dati è stato necessario criptare lato server._
+  - Importazione di una libreria apposita per la gestione del routing come “React Navigation”
+    - _Il routing tra le schermate è attualmente gestito senza librerie esterne._
+  - Importazione di una libreria per una più efficiente per la gestione delle richieste HTTPS come “Axios”
+    - _Attualmente si ha preferito utilizzare le “Fetch” perché sono native._
+  - Importazione di una libreria per la memorizzazione degli accessi con token di accesso come “AsyncStorage”
+    - _Attualmente l’accesso si perde alla chiusura dell’app_
+    - _L’accesso alle pagine che necessitano dell’autenticazione è gestito da uno useState._
+  - Importazione di una libreria per criptare la password prima di inviarla nella richiesta come “crypto-js”.
+    - _Attualmente per garantire la sicurezza dei dati è stato necessario criptare lato server._
