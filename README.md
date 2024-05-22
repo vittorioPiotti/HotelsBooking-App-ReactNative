@@ -246,7 +246,7 @@ Importazione di una libreria apposita per la gestione del routing come “React 
   - _Il routing tra le schermate è attualmente gestito senza librerie esterne._
     
 Importazione di una libreria per una più efficiente per la gestione delle richieste HTTPS come “Axios”
-  - _Attualmente si ha preferito utilizzare le “Fetch” perché sono native._
+  - _Attualmente si ha preferito utilizzare “Fetch” perché nativo._
     
 Importazione di una libreria per la memorizzazione degli accessi con token di accesso come “AsyncStorage”
   - _Attualmente l’accesso si perde alla chiusura dell’app_
