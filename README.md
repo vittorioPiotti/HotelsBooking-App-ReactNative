@@ -30,18 +30,18 @@ Applicazione Gestione Hotel: [Link all'App](https://sl2gz4.csb.app/GestioneHotel
 
 Le schermate sono state acquisite da un dispositivo IOS 
 
-## Effettuo Prenotazione
+## Onboarding
 
-| Lista Hotels| 
+| Onboarding| 
 | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/onboarding.PNG" alt="Icona" width="200"/> | 
 
 
-## Profilo
+## Alberghi
 
 | Auth| Login | Profilo | 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/edit.png" alt="Icona" width="300"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="300"/>| 
 
 
 
