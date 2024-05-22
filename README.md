@@ -59,9 +59,7 @@ Le schermate sono state acquisite da un dispositivo IOS
 
 ## Checkout
 
-| Prenotazione Disdicibile| Disdici| Disdici Feedback| 
+| Metodo Pagamento| Checkout| Feedback| 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/metodo_pagamento.PNG
-" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/checkout.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/giusto_checkout.PNG" alt="Icona" width="200"/>| 
-
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/metodo_pagamento.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/checkout.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/giusto_checkout.PNG" alt="Icona" width="200"/>| 
 
