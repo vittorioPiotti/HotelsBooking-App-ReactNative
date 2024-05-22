@@ -8,7 +8,7 @@ Applicazione per Android e IOS ottimizzata per dispositivi IOS.
 ### Indice
 
 1. Screenshots
-2. Riepilogo Esecutivo
+2. Riepilogo Prodotto
 3. Riepilog Tecnico
 
 
@@ -178,7 +178,7 @@ Feedback di avviso per esito pagamento
 
 
 
-## Riepilogo Esecutivo 
+## Riepilogo Prodotto 
 
 ### Prodotto
 
