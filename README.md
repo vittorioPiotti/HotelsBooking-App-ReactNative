@@ -24,6 +24,7 @@ Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
 
 Schermata di lancio dell’app
+
 _Presenta il nome ed il logo dell’applicazione_
 
 ## Alberghi
@@ -33,7 +34,9 @@ _Presenta il nome ed il logo dell’applicazione_
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/>| 
 
 L’utente scorre la lista degli alberghi e seleziona un albergo
+
 L’utente sceglie a quale servizio dell’albergo accedere
+
 L’utente visualizza la lista delle stanze e sceglie quale prenotare
 
 ## Permessi Utente
@@ -43,6 +46,7 @@ L’utente visualizza la lista delle stanze e sceglie quale prenotare
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_prenotazione_accesso.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazioni_accesso.PNG" alt="Icona" width="200"/>|
 
 Autenticazione necessaria per prenotare una stanza
+
 Autenticazione necessaria per lista delle prenotazioni
 
 ## Autenticazione
@@ -52,7 +56,9 @@ Autenticazione necessaria per lista delle prenotazioni
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="200"/>| 
 
 L’utente sceglie il metodo di autenticazione
+
 L’utente effettua l’accesso
+
 L’utente si registra
 
 ## Profilo
@@ -62,9 +68,13 @@ L’utente si registra
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/impostazioni.PNG" alt="Icona" width="200"/> | 
 
 Schermata di impostazioni del profilo
+
 L’utente può leggere le policy sulla privacy
+
 L’utente può richiedere assistenza
+
 L’utente può disconnettersi
+
 L’utente può eliminare il profilo
 
 
@@ -73,7 +83,9 @@ L’utente può eliminare il profilo
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/profilo.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_email.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_password.PNG" alt="Icona" width="200"/>| 
 
 L’utente vede i dati del suo profilo
+
 L’utente modifica la email
+
 L’utente modifica la password
 
 
