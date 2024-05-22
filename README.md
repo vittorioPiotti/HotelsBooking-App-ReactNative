@@ -32,9 +32,9 @@ Le schermate sono state acquisite da un dispositivo IOS
 
 ## Profilo
 
-| Auth| Login | Profilo | Elimina |
-| ------------ | ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/auth.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/login.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/edit.png" alt="Icona" width="300"/>| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/elimina.png" alt="Icona" width="300"/> |
+| Auth| Login | Profilo | 
+| ------------ | ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/auth.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/login.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/edit.png" alt="Icona" width="300"/>| 
 
 ## Effettuo Prenotazione
 
