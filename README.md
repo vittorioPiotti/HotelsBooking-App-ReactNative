@@ -72,9 +72,21 @@ Le schermate sono state acquisite da un dispositivo IOS
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_acquisti.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazio%20ni_nessuna.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_prenotazioni.PNG" alt="Icona" width="200"/>| 
 
-
-
 | Prenotazione Disdicibile| Disdici| Disdici Feedback| 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_prenotazioni_disdici.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/disdici.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_disdici.PNG" alt="Icona" width="200"/>| 
+
+## Prenotazione Stanza
+
+| Riepilogo| Nessuna Disponibilità| Seleziona Data| 
+| ------------ | ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/prenota_stanza.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazio%20ni_nessuna.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/calendario.PNG" alt="Icona" width="200"/>| 
+
+## Checkout
+
+| Prenotazione Disdicibile| Disdici| Disdici Feedback| 
+| ------------ | ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/metodo_pagamento.PNG
+" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/checkout.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/giusto_checkout.PNG" alt="Icona" width="200"/>| 
+
 
