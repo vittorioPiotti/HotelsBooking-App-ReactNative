@@ -2,7 +2,8 @@
 
 # Gestione Hotels
 
-Applicazione per scegliere da una lista di Hotel quello in cui Prenotare una Stanza (ottimizata per IOS)
+Applicazione che dall'accesso o dalla registrazione del cliente permette da una lista di hotel di sceglierne uno da cui visualizzare la lista delle stanze ognuna selezionabile per la prenotazione con la possibilità di visualizzare la lista delle prenotazioni effettuate. 
+Applicazione per Android e IOS ottimizzata per dispositivi IOS.
 
 ### Indice
 
