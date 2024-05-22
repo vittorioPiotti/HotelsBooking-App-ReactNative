@@ -41,7 +41,7 @@ Le schermate sono state acquisite da un dispositivo IOS
 
 | Auth| Login | Profilo | 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/auth.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/login.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/edit.png" alt="Icona" width="300"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/edit.png" alt="Icona" width="300"/>| 
 
 
 
