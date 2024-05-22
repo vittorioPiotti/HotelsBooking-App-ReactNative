@@ -1,33 +1,5 @@
 <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/header.png" alt="Icona" />
 
-
-
-
-# Gestione Hotels React Native
-Applicazione per scegliere da una lista di Hotel quello in cui Prenotare una Stanza (ottimizata per IOS) 
-
-## Referenze 
-
-- Mockup Appplicazione Web: [Link al Mokcup](https://www.figma.com/proto/BpWZ6Xun7IkvYqavXrUkGt/GestioneHotel?type=design&scaling=scale-down&page-id=0%3A1&node-id=78-38&starting-point-node-id=71%3A150)
-- Applicazione Web: [Link all'App](https://sl2gz4.csb.app/)
-
-
-
-
-
-## Icona 
-
-Icona realizzata con  [Figma](https://www.figma.com/)
-
-<img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/icona.png" alt="Icona" width="100"/>
-
-
-## Applicazione
-
-Applicazione Gestione Hotel: [Link all'App](https://sl2gz4.csb.app/GestioneHotel)
-
----
-
 Le schermate sono state acquisite da un dispositivo IOS 
 
 ## Onboarding
