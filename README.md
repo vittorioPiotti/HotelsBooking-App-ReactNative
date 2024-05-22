@@ -62,7 +62,7 @@ Le schermate sono state acquisite da un dispositivo IOS
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/impostazioni.PNG" alt="Icona" width="200"/> | 
 
 
-| Lista Hotels| Hotel Scelto | Lista Stanze | 
+| Profilo | Nuova Email | Nuova Password | 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="200"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/profilo.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_email.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_password.PNG" alt="Icona" width="200"/>| 
 
