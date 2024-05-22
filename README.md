@@ -1,4 +1,4 @@
-<img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/header.png" alt="Icona" />
+<img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/header.png" alt="Icona" />
 
 # Gestione Hotels
 
