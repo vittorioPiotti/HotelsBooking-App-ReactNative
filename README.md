@@ -49,8 +49,8 @@ Le schermate sono state acquisite da un dispositivo IOS
 ## Permessi Utente
 
 | Prenotazione Stanza| Vedi Prenotazioni | 
-| ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_prenotazione_accesso.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazioni_accesso.PNG" alt="Icona" width="400"/>| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/rooms.png" alt="Icona" width="200"/>| 
+| ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_prenotazione_accesso.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazioni_accesso.PNG" alt="Icona" width="400"/>|
 
 ## Checkout
 
