@@ -34,7 +34,7 @@ Le schermate sono state acquisite da un dispositivo IOS
 
 | Lista Hotels| 
 | ------------ | 
-| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/hotels.png" alt="Icona" width="100"/> | 
+| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/hotels.png" alt="Icona" width="200"/> | 
 
 
 ## Profilo
