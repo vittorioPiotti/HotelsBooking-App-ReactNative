@@ -2,7 +2,10 @@
 
 # Gestione Hotels
 
-Applicazione che dall'accesso o dalla registrazione del cliente permette da una lista di hotel di sceglierne uno da cui visualizzare la lista delle stanze ognuna selezionabile per la prenotazione con la possibilità di visualizzare la lista delle prenotazioni effettuate. 
+Applicazione che gestisce l'autenticazione del cliente da accesso e registrazione.
+Permette da una lista di hotel di sceglierne uno da cui visualizzare la lista delle stanze.
+Ogni stanza è selezionabile per la prenotazione.
+Si può visualizzare la lista delle prenotazioni effettuate. 
 Applicazione per Android e IOS ottimizzata per dispositivi IOS.
 
 ### Indice
