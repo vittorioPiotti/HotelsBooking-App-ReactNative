@@ -16,7 +16,7 @@ Applicazione per Android e IOS ottimizzata per dispositivi IOS.
 
 1. Screenshots
 2. Riepilogo Prodotto
-3. Riepilog Tecnico
+3. Riepilogo Tecnico
 
 
 ---
