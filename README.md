@@ -38,9 +38,9 @@ Le schermate sono state acquisite da un dispositivo IOS
 
 ## Effettuo Prenotazione
 
-| Lista Hotels| Hotel Scelto | Lista Stanze | Stanza Scelta |
-| ------------ | ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/hotels.png" alt="Icona" width="400"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/hotel.png" alt="Icona" width="400"/>| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/rooms.png" alt="Icona" width="400"/>| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/room.png" alt="Icona" width="400"/>|
+| Lista Hotels| Hotel Scelto | Lista Stanze | 
+| ------------ | ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/hotels.png" alt="Icona" width="400"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/hotel.png" alt="Icona" width="400"/>| <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/rooms.png" alt="Icona" width="400"/>| 
 
 ## Checkout
 
