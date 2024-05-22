@@ -41,7 +41,7 @@ Le schermate sono state acquisite da un dispositivo IOS
 
 | Auth| Login | Profilo | 
 | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="300"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/>| 
 
 
 
