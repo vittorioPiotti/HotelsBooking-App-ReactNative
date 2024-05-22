@@ -2,6 +2,14 @@
 
 # Gestione Hotels
 
+Applicazione per scegliere da una lista di Hotel quello in cui Prenotare una Stanza (ottimizata per IOS)
+
+### Indice
+
+1. Screenshots
+2. Riepilogo Esecutivo
+3. Riepilog Tecnico
+
 
 ---
 
