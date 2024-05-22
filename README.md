@@ -1,9 +1,10 @@
 <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/header.png" alt="Icona" />
 
+# Gestione Hotels
 
 ---
 
-Le schermate sono state acquisite da un dispositivo IOS 
+Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
 ## Onboarding
 
