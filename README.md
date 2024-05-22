@@ -19,7 +19,7 @@ Applicazione per scegliere da una lista di Hotel quello in cui Prenotare una Sta
 
 Icona realizzata con  [Figma](https://www.figma.com/)
 
-<img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/icona.png" alt="Icona" width="100"/>
+<img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/project/icona.png" alt="Icona" width="100"/>
 
 
 ## Applicazione
