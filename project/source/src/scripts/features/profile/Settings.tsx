@@ -126,7 +126,7 @@ const Settings = (
   };
   
   const eseguiElimina  = async () => {
-    const url = '${SERVER_URL}type=auth&method=delete&authState=client';
+    const url = `${SERVER_URL}type=auth&method=delete&authState=client`;
     const requestBody = new URLSearchParams();
     requestBody.append('userId', globalId); 
     try {
