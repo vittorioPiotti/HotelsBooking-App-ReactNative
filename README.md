@@ -179,6 +179,7 @@ L’utente seleziona il periodo del pernottamento
 L’utente seleziona il metodo di pagamento
 
 L’utente effettua il pagamento con carta
+
 Feedback di avviso per esito pagamento
 
 
@@ -194,16 +195,23 @@ Applicazione per la prenotazione delle stanze di un hotel.
 ### Scopo
 
 Selezionare un albergo da una lista.
+
 Scegliere una delle stanze di un albergo.
+
 Prenotare una stanza.
+
 Effettuare il checkout.
+
 Visualizzare la lista delle prenotazioni.
 
 ### Copyright
 
 L’utilizzo e la distribuzione dell’app o delle sue risorse può violare il copyright.
+
 Non è stata verificata la conformità dell’app e delle sue risorse alle varie licenze.
+
 Le immagini di hotel e stanze sono state scaricate da internet.
+
 Molte delle icone sono copie di quelle fornite da SF Symbols.
 
 ## Riepilogo Tecnico
@@ -227,8 +235,11 @@ La gestione delle richieste con il server web è avvenuta come segue:
 ### Testing
 
 Il testing è stato effettuato su dispositivo fisico IOS iPhone 14 Plus.
+
 In ognuna delle schermate è stato controllato il funzionamento di ogni componente.
+
 La fase di testing ha dato esito positivo.
+
 L’app è pronta per essere distribuita.
 
 
