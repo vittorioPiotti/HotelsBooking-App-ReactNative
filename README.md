@@ -238,6 +238,7 @@ Per l’installazione locale si procede come segue:
   -  Si crea il progetto React-Native dalla guida React-Native
   -  Si caricano i file sorgente sostituendo quelli già presenti
   -  Si segue la guida per il caricamento dei font
+    
 L’applicazione è pronta per essere eseguita localmente.
 
 ### Sviluppi Futuri
