@@ -72,12 +72,17 @@ _Presenta il nome ed il logo dell’applicazione_
 | Lista Hotels| Hotel Scelto | Lista Stanze | 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/>| 
+| 1 | 2 | 3| 
 
-L’utente scorre la lista degli alberghi e seleziona un albergo
 
-L’utente sceglie a quale servizio dell’albergo accedere
+1. L’utente scorre la lista degli alberghi e seleziona un albergo
+2. L’utente sceglie a quale servizio dell’albergo accedere
+3. L’utente visualizza la lista delle stanze e sceglie quale prenotare
 
-L’utente visualizza la lista delle stanze e sceglie quale prenotare
+
+
+
+
 
 
 
