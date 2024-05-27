@@ -163,8 +163,8 @@ _Presenta il nome ed il logo dell’applicazione_
 | 1 | 2 |3|
 
 1.L’utente seleziona quale tipologia di acquisti visualizzare
-2.Comparsa di un pannello di avviso se nessun acquisto effettuato
-3.L’utente visualizza la lista delle camere prenotate
+2. Comparsa di un pannello di avviso se nessun acquisto effettuato
+3. L’utente visualizza la lista delle camere prenotate
 
 
 
@@ -175,9 +175,9 @@ _Presenta il nome ed il logo dell’applicazione_
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_prenotazioni_disdici.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/disdici.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_disdici.PNG" alt="Icona" width="200"/>| 
 | 1 | 2 |3|
 
-1.L’utente visualizza una prenotazione non ancora iniziata
-2.L’utente disdice la prenotazione non ancora iniziata
-3.Visualizzazione feedback per disdetta prenotazione
+1. L’utente visualizza una prenotazione non ancora iniziata
+2. L’utente disdice la prenotazione non ancora iniziata
+3. Visualizzazione feedback per disdetta prenotazione
 
 
 
@@ -189,9 +189,9 @@ _Presenta il nome ed il logo dell’applicazione_
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/prenota_stanza.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazio%20ni_nessuna.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/calendario.PNG" alt="Icona" width="200"/>| 
 | 1 | 2 |3|
 
-1.Schermata di riepilogo della prenotazione
-2.Nessuna stanza disponibile per data scelta
-3.L’utente seleziona il periodo del pernottamento
+1. Schermata di riepilogo della prenotazione
+2. Nessuna stanza disponibile per data scelta
+3. L’utente seleziona il periodo del pernottamento
 
 
 
@@ -203,9 +203,9 @@ _Presenta il nome ed il logo dell’applicazione_
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/metodo_pagamento.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/checkout.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/giusto_checkout.PNG" alt="Icona" width="200"/>| 
 | 1 | 2 |3|
 
-1.L’utente seleziona il metodo di pagamento
-2.L’utente effettua il pagamento con carta
-3.Feedback di avviso per esito pagamento
+1. L’utente seleziona il metodo di pagamento
+2. L’utente effettua il pagamento con carta
+3. Feedback di avviso per esito pagamento
 
 
 
