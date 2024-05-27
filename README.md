@@ -37,12 +37,7 @@ Applicazione Android e IOS per la prenotazione delle stanze di un hotel.
 
 ### Scopo
 
-  - Effettuare registrazione o accesso
-  - Selezionare un albergo da una lista.
-  - Scegliere una delle stanze di un albergo.
-  - Prenotare una stanza.
-  - Effettuare il checkout.
-  - Visualizzare la lista delle prenotazioni.
+  Un cliente può prenotare la stanza di un albergo scegliendo tra le stanze degli alberghi forniti.
 
 
 ### Copyright
