@@ -58,7 +58,9 @@ Applicazione Android e IOS per la prenotazione delle stanze di un hotel.
 
 Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
-
+| Lista Hotels| Hotel Scelto | Lista Stanze | 
+| ------------ | ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/>| 
 
 
 
