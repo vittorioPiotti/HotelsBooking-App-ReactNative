@@ -11,7 +11,7 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 
 1. [Riepilogo Prodotto](#riepilogo-prodotto)
 2. [Casi d'Uso](#)
-3. Riepilogo Tecnico
+3. [Riepilogo Tecnico](#riepilogo-tecnico)
 
 
 
@@ -67,7 +67,7 @@ _Presenta il nome ed il logo dell’applicazione_
 
 
 
-## Alberghi
+### Alberghi
 
 | Lista Hotels| Hotel Scelto | Lista Stanze | 
 | ------------ | ------------ | ------------ | 
@@ -82,7 +82,7 @@ L’utente visualizza la lista delle stanze e sceglie quale prenotare
 
 
 
-## Permessi Utente
+### Permessi Utente
 
 | Prenota| Vedi Prenotazioni | 
 | ------------ | ------------ | 
@@ -95,7 +95,7 @@ Autenticazione necessaria per lista delle prenotazioni
 
 
 
-## Autenticazione
+### Autenticazione
 
 | Lista Hotels| Hotel Scelto | Lista Stanze | 
 | ------------ | ------------ | ------------ | 
@@ -110,7 +110,7 @@ L’utente si registra
 
 
 
-## Profilo
+### Profilo
 
 | Impostazioni| 
 | ------------ | 
@@ -156,7 +156,7 @@ L’utente richiede assistenza
 
 
 
-## Prenotazioni
+### Prenotazioni
 
 | Lista Acquisti| Nessuna Prenotazione| Lista Prenotazioni| 
 | ------------ | ------------ | ------------ | 
@@ -185,7 +185,7 @@ Visualizzazione feedback per disdetta prenotazione
 
 
 
-## Prenotazione Stanza
+### Prenotazione Stanza
 
 | Riepilogo| Nessuna Disponibilità| Seleziona Data| 
 | ------------ | ------------ | ------------ | 
@@ -200,7 +200,7 @@ L’utente seleziona il periodo del pernottamento
 
 
 
-## Checkout
+### Checkout
 
 | Metodo Pagamento| Checkout| Feedback| 
 | ------------ | ------------ | ------------ | 
