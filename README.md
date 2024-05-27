@@ -61,7 +61,7 @@ Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 | Scegli Hotel| Scegli Stanza | Checkout | Seleziona Data | 
 | ------------ | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/checkout.PNG" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/calendario.PNG" alt="Icona" width="200"/>| 
-|1| 2 | 3 |  3 | 
+|1| 2 | 3 |  4 | 
 
 1. L'utente sceglie l'hotel
 2. L'utente sceglie la stanza
