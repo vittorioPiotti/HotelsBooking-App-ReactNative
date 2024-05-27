@@ -121,14 +121,11 @@ _Presenta il nome ed il logo dell’applicazione_
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/impostazioni.PNG" alt="Icona" width="200"/> | 
 
 Schermata di impostazioni del profilo
+ - L’utente può leggere le policy sulla privacy
+ - L’utente può richiedere assistenza
+ - L’utente può disconnettersi
+ - L’utente può eliminare il profilo
 
-L’utente può leggere le policy sulla privacy
-
-L’utente può richiedere assistenza
-
-L’utente può disconnettersi
-
-L’utente può eliminare il profilo
 
 
 
