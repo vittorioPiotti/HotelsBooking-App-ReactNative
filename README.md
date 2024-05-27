@@ -74,10 +74,11 @@ App Multi Platform in React-Native che gestisce le richieste con un server web
 
 ### Tecnologie
 
-Per lo sviluppo dell’applicazione si ha utilizzato React-Native Typescript:
+Framework e linguaggi
   - React-native v.0.74.0
-  - Typescript 
-La gestione delle richieste con il server web è avvenuta come segue:
+  - Typescript
+    
+Comunicazione con server web:
   -  Uso protocollo HTTPS
   -  Utilizzo di Fetch
   -  Sistena di API e Endpoints
