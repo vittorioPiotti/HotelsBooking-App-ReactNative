@@ -136,9 +136,7 @@ _Presenta il nome ed il logo dell’applicazione_
 | 1 | 2 | 3| 
 
 1. L’utente vede i dati del suo profilo
-
 2. L’utente modifica la email
-
 3. L’utente modifica la password
 
 
@@ -148,10 +146,10 @@ _Presenta il nome ed il logo dell’applicazione_
 | Elimina| Assistenza | 
 | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/project/screenshots/elimina_profilo.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Gestione-Hotel-React-Native/blob/main/project/screenshots/assistenza.PNG" alt="Icona" width="200"/>|
+| 1 | 2 |
 
-L’utente elimina il profilo
-
-L’utente richiede assistenza
+1. L’utente elimina il profilo
+2. L’utente richiede assistenza
 
 
 
