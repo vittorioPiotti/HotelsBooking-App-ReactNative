@@ -248,7 +248,7 @@ L’app è pronta per essere distribuita.
 ### Distribuzione
 
 Per l’installazione locale si procede come segue:
-  -  Si crea il progetto React-Native dalla guida React-Native
+  -  Si crea il progetto React-Native dalla guida [React-Native](https://reactnative.dev/)
   -  Si caricano i file sorgente sostituendo quelli già presenti
   -  Si segue la guida per il caricamento dei font
     
