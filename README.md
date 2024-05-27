@@ -105,12 +105,11 @@ _Presenta il nome ed il logo dell’applicazione_
 | Lista Hotels| Hotel Scelto | Lista Stanze | 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="200"/>| 
+| 1 | 2 | 3| 
 
-L’utente sceglie il metodo di autenticazione
-
-L’utente effettua l’accesso
-
-L’utente si registra
+1. L’utente sceglie il metodo di autenticazione
+2. L’utente effettua l’accesso
+3. L’utente si registra
 
 
 
