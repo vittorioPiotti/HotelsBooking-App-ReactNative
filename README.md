@@ -43,6 +43,7 @@ Applicazione per la prenotazione delle stanze di un hotel.
   - Effettuare il checkout.
   - Visualizzare la lista delle prenotazioni.
 
+
 ### Copyright
 
 > [!CAUTION]
