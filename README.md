@@ -1,7 +1,7 @@
 <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/header.png" alt="Icona" />
 
 
----
+
 
 # Gestione Hotels
 
@@ -16,7 +16,7 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 
 
 
----
+
 
 
 
