@@ -28,7 +28,7 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 
 
 
-## Riepilogo Prodotto 
+# Riepilogo Prodotto 
 
 ### Prodotto
 
@@ -51,7 +51,7 @@ Applicazione per la prenotazione delle stanze di un hotel.
 > Molte delle icone sono copie di quelle fornite da SF Symbols.
 
 
-
+# Casi d'Uso
 
 ## Onboarding
 
