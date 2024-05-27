@@ -218,4 +218,58 @@ Feedback di avviso per esito pagamento
 
 
 
+## Riepilogo Tecnico
+
+### Obbiettivo
+
+App Multi Platform in React-Native che gestisce le richieste con un server web
+
+### Tecnologie
+
+Per lo sviluppo dell’applicazione si ha utilizzato React-Native Typescript:
+  - React-native perché garantisce una compatibilità multi-platform per Android e IOS.
+  - Typescript per essere tipizzato e per le librerie ed i framework disponibili.
+  - Sono state utilizzate solo librerie di default.
+
+La gestione delle richieste con il server web è avvenuta come segue:
+  -  Tramite l’uso dell protocollo HTTPS per garantire la sicurezza della comunicazione.
+  -  Tramite le Fetch che sono funzioni native per inviare le richieste del client al server.
+  -  Tramite un sistema di API e endpoints per gestire la comunicazione client-server.
+
+### Testing
+
+Il testing è stato effettuato su dispositivo fisico IOS iPhone 14 Plus.
+
+In ognuna delle schermate è stato controllato il funzionamento di ogni componente.
+
+La fase di testing ha dato esito positivo.
+
+L’app è pronta per essere distribuita.
+
+
+### Distribuzione
+
+Per l’installazione locale si procede come segue:
+  -  Si crea il progetto React-Native dalla guida React-Native
+  -  Si caricano i file sorgente sostituendo quelli già presenti
+  -  Si segue la guida per il caricamento dei font
+    
+L’applicazione è pronta per essere eseguita localmente.
+
+### Sviluppi Futuri
+
+Importazione di una libreria apposita per la gestione del routing come “React Navigation”
+  - _Il routing tra le schermate è attualmente gestito senza librerie esterne._
+    
+Importazione di una libreria per una più efficiente per la gestione delle richieste HTTPS come “Axios”
+  - _Attualmente si ha preferito utilizzare “Fetch” perché nativo._
+    
+Importazione di una libreria per la memorizzazione degli accessi con token di accesso come “AsyncStorage”
+  - _Attualmente l’accesso si perde alla chiusura dell’app_
+  - _L’accesso alle pagine che necessitano dell’autenticazione è gestito da uno useState._
+    
+Importazione di una libreria per criptare la password prima di inviarla nella richiesta come “crypto-js”.
+  - _Attualmente per garantire la sicurezza dei dati è stato necessario criptare lato server._
+
+
 
