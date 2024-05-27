@@ -256,7 +256,7 @@ La gestione delle richieste con il server web è avvenuta come segue:
 
 | | Routing tra le schermate| Richieste HTTPS| Token di accesso| Sicurezza dei dati|
 | ------------| ------------ | ------------ | ------------ | ------------ | 
-| Libreira | React Navigation| Axios| AsyncStorage| crypto-js|
+| Libreria | React Navigation| Axios| AsyncStorage| crypto-js|
 | Attualmente | no | no | no | no |
 | Versioni Future | si | si | si | si |
 
