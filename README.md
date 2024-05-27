@@ -60,11 +60,10 @@ Applicazione per la prenotazione delle stanze di un hotel.
 | Onboarding| 
 | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/onboarding.PNG" alt="Icona" width="200"/> | 
+| 1| 
 
+1. Schermata di lancio dell’app
 
-Schermata di lancio dell’app
-
-_Presenta il nome ed il logo dell’applicazione_
 
 
 
