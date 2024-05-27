@@ -2,15 +2,7 @@
 
 # Gestione Hotels
 
-Applicazione che gestisce l'autenticazione del cliente.
-
-Permette da una lista di hotel di sceglierne uno da cui visualizzare la lista delle stanze.
-
-Ogni stanza è selezionabile per la prenotazione.
-
-Si può visualizzare la lista delle prenotazioni effettuate. 
-
-Applicazione per Android e IOS ottimizzata per dispositivi IOS.
+Applicazione Android e IOS per prenotare le stanze di un Hotel
 
 ### Indice
 
@@ -21,23 +13,11 @@ Applicazione per Android e IOS ottimizzata per dispositivi IOS.
 
 ---
 
-Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
-
-## Onboarding
-
-| Onboarding| 
-| ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/onboarding.PNG" alt="Icona" width="200"/> | 
-
-
-Schermata di lancio dell’app
-
-_Presenta il nome ed il logo dell’applicazione_
 
 
 
 
-## Alberghi
+## Preview
 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/>  | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
