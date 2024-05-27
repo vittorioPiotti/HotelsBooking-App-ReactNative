@@ -36,11 +36,12 @@ Applicazione per la prenotazione delle stanze di un hotel.
 
 ### Scopo
 
-  1. Selezionare un albergo da una lista.
-  2. Scegliere una delle stanze di un albergo.
-  3. Prenotare una stanza.
-  4. Effettuare il checkout.
-  5. Visualizzare la lista delle prenotazioni.
+  - Effettuare registrazione o accesso
+  - Selezionare un albergo da una lista.
+  - Scegliere una delle stanze di un albergo.
+  - Prenotare una stanza.
+  - Effettuare il checkout.
+  - Visualizzare la lista delle prenotazioni.
 
 ### Copyright
 
