@@ -20,6 +20,9 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
 
+>[!VIDEO](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view)
+
+
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/onboarding.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_prenotazione_accesso.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazioni_accesso.PNG" alt="Icona" width="200"/>  |  <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="200"/>  | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/impostazioni.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/profilo.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_email.PNG" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_password.PNG" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/elimina_profilo.PNG" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/assistenza.PNG" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_acquisti.PNG" alt="Icona" width="200"/>|  <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazio%20ni_nessuna.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_prenotazioni.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_prenotazioni_disdici.PNG" alt="Icona" width="200"/>  | 
@@ -277,7 +280,7 @@ Importazione di una libreria per criptare la password prima di inviarla nella ri
 $ tree
 .
 └── src
-    ├── assets
+    ├── assets *immagini*
     │   ├── fonts
     │   │   ├── Nunito-Bold.ttf
     │   │   ├── Nunito-ExtraBold.ttf
