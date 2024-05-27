@@ -9,13 +9,38 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 
 ### Indice
 
-1. Screenshots
-2. Riepilogo Prodotto
+1. Riepilogo Prodotto
+2. Casi d'Uso
 3. Riepilogo Tecnico
 
 
 
 ---
+
+
+## Riepilogo Prodotto 
+
+### Prodotto
+
+Applicazione per la prenotazione delle stanze di un hotel.
+
+### Scopo
+
+  1. Selezionare un albergo da una lista.
+  2. Scegliere una delle stanze di un albergo.
+  3. Prenotare una stanza.
+  4. Effettuare il checkout.
+  5. Visualizzare la lista delle prenotazioni.
+
+### Copyright
+
+L’utilizzo e la distribuzione dell’app o delle sue risorse può violare il copyright.
+
+Non è stata verificata la conformità dell’app e delle sue risorse alle varie licenze.
+
+Le immagini di hotel e stanze sono state scaricate da internet.
+
+Molte delle icone sono copie di quelle fornite da SF Symbols.
 
 
 
