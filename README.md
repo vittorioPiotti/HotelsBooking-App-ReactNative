@@ -10,7 +10,7 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 ### Indice
 
 1. [Riepilogo Prodotto](#riepilogo-prodotto)
-2. [Casi d'Uso](#)
+2. [Casi d'uso](#casi-duso)
 3. [Riepilogo Tecnico](#riepilogo-tecnico)
 
 
