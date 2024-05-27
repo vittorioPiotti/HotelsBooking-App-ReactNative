@@ -32,7 +32,7 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 
 ### Prodotto
 
-Applicazione per la prenotazione delle stanze di un hotel.
+Applicazione Android e IOS per la prenotazione delle stanze di un hotel.
 
 ### Scopo
 
