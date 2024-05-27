@@ -227,14 +227,12 @@ App Multi Platform in React-Native che gestisce le richieste con un server web
 ### Tecnologie
 
 Per lo sviluppo dell’applicazione si ha utilizzato React-Native Typescript:
-  - React-native perché garantisce una compatibilità multi-platform per Android e IOS.
-  - Typescript per essere tipizzato e per le librerie ed i framework disponibili.
-  - Sono state utilizzate solo librerie di default.
-
+  - React-native v.0.74.0
+  - Typescript 
 La gestione delle richieste con il server web è avvenuta come segue:
-  -  Tramite l’uso dell protocollo HTTPS per garantire la sicurezza della comunicazione.
-  -  Tramite le Fetch che sono funzioni native per inviare le richieste del client al server.
-  -  Tramite un sistema di API e endpoints per gestire la comunicazione client-server.
+  -  Uso protocollo HTTPS
+  -  Utilizzo di Fetch
+  -  Sistena di API e Endpoints
 
 ### Testing
 
