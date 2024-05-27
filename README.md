@@ -65,8 +65,8 @@ Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
 1. L'utente sceglie l'hotel
 2. L'utente sceglie la stanza
-3. l'utente sceglie data
-4. l'utente prenota
+3. l'utente prenota
+4. l'utente sceglie data
 
 
 
