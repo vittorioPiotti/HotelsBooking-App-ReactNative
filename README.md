@@ -120,10 +120,10 @@ _Presenta il nome ed il logo dell’applicazione_
 | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/impostazioni.PNG" alt="Icona" width="200"/> | 
 
- - L’utente può leggere le policy sulla privacy
- - L’utente può richiedere assistenza
- - L’utente può disconnettersi
- - L’utente può eliminare il profilo
+- L’utente può leggere le policy sulla privacy
+- L’utente può richiedere assistenza
+- L’utente può disconnettersi
+- L’utente può eliminare il profilo
 
 
 
@@ -133,12 +133,13 @@ _Presenta il nome ed il logo dell’applicazione_
 | Profilo | Nuova Email | Nuova Password | 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/profilo.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_email.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/modifica_password.PNG" alt="Icona" width="200"/>| 
+| 1 | 2 | 3| 
 
-L’utente vede i dati del suo profilo
+1. L’utente vede i dati del suo profilo
 
-L’utente modifica la email
+2. L’utente modifica la email
 
-L’utente modifica la password
+3. L’utente modifica la password
 
 
 
