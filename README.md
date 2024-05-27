@@ -239,11 +239,13 @@ La gestione delle richieste con il server web è avvenuta come segue:
 ### Testing
 
 
-> [!TIP]
-> Testing effettuato su dispositivo fisico IOS iPhone 14 Plus  ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
-> La fase di testing ha dato esito positivo.
-> L’app è pronta per essere distribuita.
+> [!NOTE]
+> iPhone 14 Plus ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
 
+
+> [!TIP]
+> iPhone 14 Plus ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
+> L’app è pronta per essere distribuita.
 
 
 
