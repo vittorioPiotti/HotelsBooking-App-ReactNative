@@ -60,7 +60,7 @@ Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
 | Lista Hotels| Hotel Scelto | Lista Stanze | Lista Stanze | 
 | ------------ | ------------ | ------------ | ------------ | 
-| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/prenota_Stanza.PNG" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/>| 
+| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/calendar.PNG" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/checkout.PNG" alt="Icona" width="200"/>| 
 |1| 2 | 3 |  3 | 
 
 1. L'utente sceglie l'hotel
