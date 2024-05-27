@@ -96,11 +96,10 @@ Comunicazione con server web:
 
 ### Implementazioni Future
 
-| | Routing tra le schermate| Richieste HTTPS| Token di accesso| Sicurezza dei dati|
+| Libreria| Routing tra le schermate| Richieste HTTPS| Token di accesso| Sicurezza dei dati|
 | ------------| ------------ | ------------ | ------------ | ------------ | 
-| Libreria | React Navigation| Axios| AsyncStorage| crypto-js|
-| Attualmente | no | no | no | no |
-| Versioni Future | si | si | si | si |
+| Attualmente | Nessuna| Fetch | Nessuna| Nessuna |
+| Versioni Future | React Navigation| Axios| AsyncStorage| crypto-js|
 
 
 
