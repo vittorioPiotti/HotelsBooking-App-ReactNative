@@ -245,14 +245,12 @@ La gestione delle richieste con il server web è avvenuta come segue:
 
 
 
-### Distribuzione
+### Distribuzione Locale
 
-Per l’installazione locale si procede come segue:
-  -  Si crea il progetto React-Native dalla guida [React-Native](https://reactnative.dev/docs/environment-setup)
-  -  Si caricano i file sorgente sostituendo quelli già presenti
-  -  Si segue la guida per il caricamento dei font ([link](https://medium.com/@lewie9021/custom-fonts-in-react-native-85d814ca084))
+  1. Si crea il progetto React-Native dalla guida [React-Native](https://reactnative.dev/docs/environment-setup)
+  2. Si caricano i file sorgente sostituendo quelli già presenti
+  3. Si segue la guida per il caricamento dei font ([link](https://medium.com/@lewie9021/custom-fonts-in-react-native-85d814ca084))
     
-L’applicazione è pronta per essere eseguita localmente.
 
 ### Sviluppi Futuri
 
