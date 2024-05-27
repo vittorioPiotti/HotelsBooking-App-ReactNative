@@ -239,10 +239,6 @@ La gestione delle richieste con il server web è avvenuta come segue:
 ### Testing
 
 
-> [!NOTE]
-> iPhone 14 Plus ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
-
-
 > [!TIP]
 > iPhone 14 Plus ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
 > L’app è pronta per essere distribuita.
