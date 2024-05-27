@@ -50,7 +50,6 @@ Applicazione per la prenotazione delle stanze di un hotel.
 > Le immagini di hotel e stanze sono state scaricate da internet.
 > Molte delle icone sono copie di quelle fornite da SF Symbols.
 
----
 
 ## Casi di Uso
 
