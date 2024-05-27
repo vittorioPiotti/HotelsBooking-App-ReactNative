@@ -252,7 +252,13 @@ La gestione delle richieste con il server web è avvenuta come segue:
   3. Si segue la guida per il caricamento dei font ([link](https://medium.com/@lewie9021/custom-fonts-in-react-native-85d814ca084))
     
 
-### Sviluppi Futuri
+### Implementazioni Future
+
+| | React Navigation| Axios| AsyncStorage| crypto-js|
+| ------------| ------------ | ------------ | ------------ | ------------ | 
+| Attualmente | 1 | 2 | 3 | 3 |
+| In Furueo | 1 | 2 | 3 | 3 |
+
 
 Importazione di una libreria apposita per la gestione del routing come “React Navigation”
   - _Il routing tra le schermate è attualmente gestito senza librerie esterne._
