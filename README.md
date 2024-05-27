@@ -44,12 +44,9 @@ Applicazione per la prenotazione delle stanze di un hotel.
 
 ### Copyright
 
-L’utilizzo e la distribuzione dell’app o delle sue risorse può violare il copyright.
-
+L’utilizzo e la distribuzione dell’app o delle sue risorse può violare il copyright. 
 Non è stata verificata la conformità dell’app e delle sue risorse alle varie licenze.
-
 Le immagini di hotel e stanze sono state scaricate da internet.
-
 Molte delle icone sono copie di quelle fornite da SF Symbols.
 
 
