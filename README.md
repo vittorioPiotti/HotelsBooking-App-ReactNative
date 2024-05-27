@@ -160,12 +160,11 @@ _Presenta il nome ed il logo dell’applicazione_
 | Lista Acquisti| Nessuna Prenotazione| Lista Prenotazioni| 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_acquisti.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazio%20ni_nessuna.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_prenotazioni.PNG" alt="Icona" width="200"/>| 
+| 1 | 2 |3|
 
-L’utente seleziona quale tipologia di acquisti visualizzare
-
-Comparsa di un pannello di avviso se nessun acquisto effettuato
-
-L’utente visualizza la lista delle camere prenotate
+1.L’utente seleziona quale tipologia di acquisti visualizzare
+2.Comparsa di un pannello di avviso se nessun acquisto effettuato
+3.L’utente visualizza la lista delle camere prenotate
 
 
 
@@ -174,12 +173,11 @@ L’utente visualizza la lista delle camere prenotate
 | Prenotazione Disdicibile| Disdici| Disdici Feedback| 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_prenotazioni_disdici.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/disdici.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_disdici.PNG" alt="Icona" width="200"/>| 
+| 1 | 2 |3|
 
-L’utente visualizza una prenotazione non ancora iniziata
-
-L’utente disdice la prenotazione non ancora iniziata
-
-Visualizzazione feedback per disdetta prenotazione
+1.L’utente visualizza una prenotazione non ancora iniziata
+2.L’utente disdice la prenotazione non ancora iniziata
+3.Visualizzazione feedback per disdetta prenotazione
 
 
 
@@ -189,12 +187,11 @@ Visualizzazione feedback per disdetta prenotazione
 | Riepilogo| Nessuna Disponibilità| Seleziona Data| 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/prenota_stanza.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazio%20ni_nessuna.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/calendario.PNG" alt="Icona" width="200"/>| 
+| 1 | 2 |3|
 
-
-L’utente visualizza il riepilogo della prenotazione Feedback di avviso per nessuna disponibilità di stanze
-
-L’utente seleziona il periodo del pernottamento
-
+1.Schermata di riepilogo della prenotazione
+2.Nessuna stanza disponibile per data scelta
+3.L’utente seleziona il periodo del pernottamento
 
 
 
@@ -204,12 +201,11 @@ L’utente seleziona il periodo del pernottamento
 | Metodo Pagamento| Checkout| Feedback| 
 | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/metodo_pagamento.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/checkout.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/giusto_checkout.PNG" alt="Icona" width="200"/>| 
+| 1 | 2 |3|
 
-L’utente seleziona il metodo di pagamento
-
-L’utente effettua il pagamento con carta
-
-Feedback di avviso per esito pagamento
+1.L’utente seleziona il metodo di pagamento
+2.L’utente effettua il pagamento con carta
+3.Feedback di avviso per esito pagamento
 
 
 
