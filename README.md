@@ -276,65 +276,103 @@ Importazione di una libreria per criptare la password prima di inviarla nella ri
 ```bash
 $ tree
 .
-└── GestioneHotel
-    │
-    └── Client
-        ├── /assets: immagini,stili e script
-        │   ├── /css: stili personalizzati
-        │   │   ├── auth.css
-        │   │   ├── book.css
-        │   │   ├── calendar.css
-        │   │   ├── carousel.css
-        │   │   ├── colors.css
-        │   │   ├── footer.css
-        │   │   ├── global.css
-        │   │   ├── header.css
-        │   │   ├── hotel.css
-        │   │   ├── hotels.css
-        │   │   ├── nunito.css
-        │   │   ├── patterns.css
-        │   │   └── rooms.css
-        │   ├── /dist: librerie di stili e script
-        │   │   ├── /css
-        │   |   |   ├── bootstrap.bundle.min.js.map
-        │   │   │   └── bootstrap.min.css
-        │   │   └── /js
-        │   │       ├── bootstrap.bundle.min.js
-        │   │       ├── bootstrap.bundle.min.js.map
-        │   │       └── jquery.min.js
-        │   ├── /images
-        │   │   ├── icon.png
-        │   │   └── logo.png
-        │   └── /js: script personalizzati
-        │       ├── admin.js
-        │       ├── ajax.js: gestore API js
-        │       ├── auth.js
-        │       ├── book.js
-        │       ├── calnder.js
-        │       ├── home.js
-        │       ├── hotel.js
-        │       ├── index.js
-        │       ├── objects.js: oggetti utilizzati
-        │       └── room.js
-        ├── /src
-        │   ├── /controllers: gestori API php
-        │   │   ├── CAuth.php: gestore API per Profilo
-        │   │   ├── CBooking.php: gestore API per Prenotazioni
-        │   │   ├── CHotel.php: gestore API per Alberghi
-        │   │   └── CRoom.php: gestore API per Stanze
-        │   ├── /entities: entità utilizzate
-        │   │   ├── EAdmin.php
-        │   │   ├── EBooking.php
-        │   │   ├── EClient.php
-        │   │   ├── EHotel.php
-        │   │   └── ERoom.php
-        │   ├── /views: frontend pagine sito
-        │   │   ├── VAuth.php
-        │   │   ├── VBooking.php
-        │   │   ├── VHotel.php
-        │   │   └── VRoom.php
-        │   └── autoloader.php
-        └── index.php
+└── src
+    ├── assets
+    │   ├── fonts
+    │   │   ├── Nunito-Bold.ttf
+    │   │   ├── Nunito-ExtraBold.ttf
+    │   │   ├── Nunito-Light.ttf
+    │   │   ├── Nunito-Medium.ttf
+    │   │   ├── Nunito-Regular.ttf
+    │   │   └── Nunito-SemiBold.ttf
+    │   └── images
+    │       ├── americanExpress.png
+    │       ├── arrowshape.turn.up.left.blue.png
+    │       ├── arrowshape.turn.up.left.fill.png
+    │       ├── arrowshape.turn.up.left.png
+    │       ├── bed.double.blue.png
+    │       ├── bed.double.png
+    │       ├── bg01.png
+    │       ├── bg02.png
+    │       ├── bg03.png
+    │       ├── bg04.png
+    │       ├── bg05.png
+    │       ├── bg06.png
+    │       ├── bg07.png
+    │       ├── bg08.png
+    │       ├── bg10.png
+    │       ├── calendar.png
+    │       ├── cart.blue.png
+    │       ├── cart.fill.blue.png
+    │       ├── cart.fill.png
+    │       ├── cart.png
+    │       ├── checkmark.circle.png
+    │       ├── chevron.up.chevron.down.png
+    │       ├── clock.link.png
+    │       ├── creditcard.png
+    │       ├── cup.and.saucer.blue.png
+    │       ├── cup.and.saucer.png
+    │       ├── exclamationmark.triangle.fill.png
+    │       ├── facebook.png
+    │       ├── fork.knife.blue.png
+    │       ├── fork.knife.png
+    │       ├── glitch.png
+    │       ├── google.png
+    │       ├── greaterthan.circle.png
+    │       ├── info.circle.blue.png
+    │       ├── instagram.png
+    │       ├── lessthan.circle.png
+    │       ├── location.circle.blue.png
+    │       ├── location.circle.link.png
+    │       ├── location.fill.png
+    │       ├── location.png
+    │       ├── logolg.png
+    │       ├── logomd.png
+    │       ├── logosm.png
+    │       ├── magnifyingglass.png
+    │       ├── map.png
+    │       ├── mastercard.png
+    │       ├── party.popper.blue.png
+    │       ├── party.popper.png
+    │       ├── paypal.png
+    │       ├── person.fill.png
+    │       ├── person.png
+    │       ├── phone.circle.link.png
+    │       ├── sportscourt.blue.png
+    │       ├── sportscourt.png
+    │       ├── star.fill.png
+    │       ├── star.fill.yellow.png
+    │       ├── twitter.png
+    │       ├── visa.png
+    │       └── x.circle.png
+    ├── scripts
+    │   ├── constants
+    │   │   ├── activities.tsx
+    │   │   ├── colors.tsx
+    │   │   ├── connection.tsx
+    │   │   ├── fonts.tsx
+    │   │   ├── images.tsx
+    │   │   └── screens.tsx
+    │   ├── features
+    │   │   ├── navigation
+    │   │   │   ├── Books.tsx
+    │   │   │   ├── Home.tsx
+    │   │   │   ├── Hotel.tsx
+    │   │   │   ├── Room.tsx
+    │   │   │   └── Rooms.tsx
+    │   │   ├── onboarding
+    │   │   │   └── Preview.tsx
+    │   │   └── profile
+    │   │       ├── Auth.tsx
+    │   │       ├── Profile.tsx
+    │   │       ├── Settings.tsx
+    │   │       └── SignIn.tsx
+    │   └── layouts
+    │       ├── Calendar.tsx
+    │       ├── Footer.tsx
+    │       ├── Header.tsx
+    │       └── Modal.tsx
+    └── App.tsx
 
 ```
 
