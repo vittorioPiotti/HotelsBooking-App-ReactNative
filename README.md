@@ -98,7 +98,7 @@ Comunicazione con server web:
 
 | Libreria| Routing tra le schermate| Richieste HTTPS| Token di accesso| Sicurezza dei dati|
 | ------------| ------------ | ------------ | ------------ | ------------ | 
-| Attualmente | Nessuna| Fetch | Nessuna| Nessuna |
+| Versione Attuale | Nessuna| Fetch | Nessuna| Nessuna |
 | Versioni Future | React Navigation| Axios| AsyncStorage| crypto-js|
 
 
