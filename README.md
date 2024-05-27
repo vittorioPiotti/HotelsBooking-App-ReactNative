@@ -162,7 +162,7 @@ _Presenta il nome ed il logo dell’applicazione_
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_acquisti.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazio%20ni_nessuna.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_prenotazioni.PNG" alt="Icona" width="200"/>| 
 | 1 | 2 |3|
 
-1.L’utente seleziona quale tipologia di acquisti visualizzare
+1. L’utente seleziona quale tipologia di acquisti visualizzare
 2. Comparsa di un pannello di avviso se nessun acquisto effettuato
 3. L’utente visualizza la lista delle camere prenotate
 
