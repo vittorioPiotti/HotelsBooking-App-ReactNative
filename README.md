@@ -92,10 +92,10 @@ _Presenta il nome ed il logo dell’applicazione_
 | Prenota| Vedi Prenotazioni | 
 | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_prenotazione_accesso.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazioni_accesso.PNG" alt="Icona" width="200"/>|
+| 1 | 2 |
 
-Autenticazione necessaria per prenotare una stanza
-
-Autenticazione necessaria per lista delle prenotazioni
+1. Autenticazione necessaria per prenotare una stanza
+2. Autenticazione necessaria per lista delle prenotazioni
 
 
 
