@@ -258,7 +258,7 @@ La gestione delle richieste con il server web è avvenuta come segue:
 | ------------| ------------ | ------------ | ------------ | ------------ | 
 | | React Navigation| Axios| AsyncStorage| crypto-js|
 | Attualmente | no | no | no | no |
-| In Futuro | si | si | si | si |
+| Versioni Future | si | si | si | si |
 
 
 
