@@ -20,8 +20,6 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
-
 
 
 | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/onboarding.PNG" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_alberghi.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/albergo_scelto.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/lista_stanze.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_prenotazione_accesso.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/errore_lista_prenotazioni_accesso.PNG" alt="Icona" width="200"/>  |  <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/autenticazione.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/accesso.PNG" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/GestioneHotels/blob/main/project/screenshots/registrazione.PNG" alt="Icona" width="200"/>  | 
@@ -252,9 +250,9 @@ L’app è pronta per essere distribuita.
 ### Distribuzione
 
 Per l’installazione locale si procede come segue:
-  -  Si crea il progetto React-Native dalla guida [React-Native](https://reactnative.dev/)
+  -  Si crea il progetto React-Native dalla guida [React-Native](https://reactnative.dev/docs/environment-setup)
   -  Si caricano i file sorgente sostituendo quelli già presenti
-  -  Si segue la guida per il caricamento dei font
+  -  Si segue la guida per il caricamento dei font ([link](https://medium.com/@lewie9021/custom-fonts-in-react-native-85d814ca084))
     
 L’applicazione è pronta per essere eseguita localmente.
 
@@ -281,74 +279,9 @@ Importazione di una libreria per criptare la password prima di inviarla nella ri
 $ tree
 .
 └── src
-    ├── assets *immagini*
+    ├── assets 
     │   ├── fonts
-    │   │   ├── Nunito-Bold.ttf
-    │   │   ├── Nunito-ExtraBold.ttf
-    │   │   ├── Nunito-Light.ttf
-    │   │   ├── Nunito-Medium.ttf
-    │   │   ├── Nunito-Regular.ttf
-    │   │   └── Nunito-SemiBold.ttf
     │   └── images
-    │       ├── americanExpress.png
-    │       ├── arrowshape.turn.up.left.blue.png
-    │       ├── arrowshape.turn.up.left.fill.png
-    │       ├── arrowshape.turn.up.left.png
-    │       ├── bed.double.blue.png
-    │       ├── bed.double.png
-    │       ├── bg01.png
-    │       ├── bg02.png
-    │       ├── bg03.png
-    │       ├── bg04.png
-    │       ├── bg05.png
-    │       ├── bg06.png
-    │       ├── bg07.png
-    │       ├── bg08.png
-    │       ├── bg10.png
-    │       ├── calendar.png
-    │       ├── cart.blue.png
-    │       ├── cart.fill.blue.png
-    │       ├── cart.fill.png
-    │       ├── cart.png
-    │       ├── checkmark.circle.png
-    │       ├── chevron.up.chevron.down.png
-    │       ├── clock.link.png
-    │       ├── creditcard.png
-    │       ├── cup.and.saucer.blue.png
-    │       ├── cup.and.saucer.png
-    │       ├── exclamationmark.triangle.fill.png
-    │       ├── facebook.png
-    │       ├── fork.knife.blue.png
-    │       ├── fork.knife.png
-    │       ├── glitch.png
-    │       ├── google.png
-    │       ├── greaterthan.circle.png
-    │       ├── info.circle.blue.png
-    │       ├── instagram.png
-    │       ├── lessthan.circle.png
-    │       ├── location.circle.blue.png
-    │       ├── location.circle.link.png
-    │       ├── location.fill.png
-    │       ├── location.png
-    │       ├── logolg.png
-    │       ├── logomd.png
-    │       ├── logosm.png
-    │       ├── magnifyingglass.png
-    │       ├── map.png
-    │       ├── mastercard.png
-    │       ├── party.popper.blue.png
-    │       ├── party.popper.png
-    │       ├── paypal.png
-    │       ├── person.fill.png
-    │       ├── person.png
-    │       ├── phone.circle.link.png
-    │       ├── sportscourt.blue.png
-    │       ├── sportscourt.png
-    │       ├── star.fill.png
-    │       ├── star.fill.yellow.png
-    │       ├── twitter.png
-    │       ├── visa.png
-    │       └── x.circle.png
     ├── scripts
     │   ├── constants
     │   │   ├── activities.tsx
