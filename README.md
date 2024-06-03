@@ -117,7 +117,7 @@ La fase di prototyping è stata elaborata tramite gli strumenti offerti da [Figm
 | Libreria| Routing tra le schermate| Richieste HTTPS| Token di accesso| Sicurezza dei dati|
 | ------------| ------------ | ------------ | ------------ | ------------ | 
 | Versione Attuale | Nessuna| Fetch | Nessuna| Nessuna |
-| Versioni Future | React Navigation| Axios| AsyncStorage| crypto-js|
+| Versioni Future | [React Navigation](https://www.npmjs.com/package/@react-navigation/native)| [Axios](https://www.npmjs.com/package/axios)| [AsyncStorage](https://www.npmjs.com/package/@react-native-async-storage/async-storage)| [crypto-js](https://www.npmjs.com/package/crypto-js)|
 
 
 
