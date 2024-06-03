@@ -67,6 +67,19 @@ Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
 App Multi Platform in React-Native che gestisce le richieste con un server web
 
+### Indice
+
+1. [Tecnologie](#tecnologie)
+2. [Prototyping ](#prototyping)
+3. [Testing](#testing)
+4. [Distribuzione Locale](#distribuzione-locale)
+5. [Albero di Path](#albero-di-path)
+
+
+
+---
+
+
 ### Tecnologie
 
 Framework e linguaggi
