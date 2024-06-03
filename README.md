@@ -78,6 +78,11 @@ Comunicazione con server web:
   -  Utilizzo di Fetch
   -  Sistena di API e Endpoints
 
+### Prototyping 
+
+
+La fase di prototyping è stata ealborata sfruttando [Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1329721993264671153) per la realizzazione del mockup dal quale è stata sviluppata l'applicazione ([link](https://www.figma.com/design/BpWZ6Xun7IkvYqavXrUkGt/GestioneHotel?node-id=0-1&t=Pr9SRdNo9SgsqGOc-0)).
+
 ### Testing
 
 
