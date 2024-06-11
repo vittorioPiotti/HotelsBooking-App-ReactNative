@@ -121,21 +121,84 @@ La fase di prototyping è stata elaborata tramite gli strumenti offerti da [Figm
 | Versioni Future | [React Navigation](https://www.npmjs.com/package/@react-navigation/native)| [Axios](https://www.npmjs.com/package/axios)| [AsyncStorage](https://www.npmjs.com/package/@react-native-async-storage/async-storage)| [crypto-js](https://www.npmjs.com/package/crypto-js)|
 
 
-### API
+### Script API
 
-| Nome API                 | Parametri                       | URL                                                                                        | Descrizione                                          |
-|--------------------------|----------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------|
-| getBookingsDataApp       | `globalId`                      | /api?type=book&method=getBookingsDataApp&clientId=${globalId}                               | Ottiene i dati delle prenotazioni per il cliente specificato          |
-| getHotelsDataApp         | Nessuno                         | /api?type=hotel&method=getHotelsDataApp                                                    | Ottiene i dati di tutti gli hotel                                      |
-| getHotelDataApp          | `idAlbergo`                     | /api?type=hotel&method=getHotelDataApp&idHotel=${idAlbergo}                                 | Ottiene i dati di un hotel specifico                                   |
-| newbooking               | Nessuno                         | /api?type=book&method=newbooking                                                           | Crea una nuova prenotazione                                            |
-| getHotelRoomsDataApp     | `idAlbergo`                     | /api?type=room&method=getHotelRoomsDataApp&idHotel=${idAlbergo}                             | Ottiene i dati delle stanze di un hotel specifico                      |
-| getClientEmail           | `globalId`                      | /api?type=auth&method=getClientEmail&idClient=${globalId}                                   | Ottiene l'email del cliente specificato                                |
-| editClientEmail          | Nessuno                         | /api?type=auth&method=editClientEmail                                                      | Modifica l'email del cliente                                           |
-| editClientPassw          | Nessuno                         | /api?type=auth&method=editClientPassw                                                      | Modifica la password del cliente                                       |
-| deleteClient             | Nessuno                         | /api?type=auth&method=delete&authState=client                                              | Elimina il cliente                                                     |
-| loginClient              | Nessuno                         | /api?type=auth&method=login&authState=client                                               | Esegue il login per il cliente                                         |
-| dynamicClientMethod      | `apiMethod`                     | /api?type=auth&method=${apiMethod}&authState=client                                        | Esegue una richiesta dinamica del client basata sul metodo specificato |
+#### getBookingsDataApp
+
+Ottiene i dati delle prenotazioni per il cliente specificato.
+
+- **URL:** `/api?type=book&method=getBookingsDataApp&clientId=${globalId}`
+- **Parametri:** `globalId`
+
+#### getHotelsDataApp
+
+Ottiene i dati di tutti gli hotel.
+
+- **URL:** `/api?type=hotel&method=getHotelsDataApp`
+- **Parametri:** Nessuno
+
+#### getHotelDataApp
+
+Ottiene i dati di un hotel specifico.
+
+- **URL:** `/api?type=hotel&method=getHotelDataApp&idHotel=${idAlbergo}`
+- **Parametri:** `idAlbergo`
+
+#### newbooking
+
+Crea una nuova prenotazione.
+
+- **URL:** `/api?type=book&method=newbooking`
+- **Parametri:** Nessuno
+
+#### getHotelRoomsDataApp
+
+Ottiene i dati delle stanze di un hotel specifico.
+
+- **URL:** `/api?type=room&method=getHotelRoomsDataApp&idHotel=${idAlbergo}`
+- **Parametri:** `idAlbergo`
+
+#### getClientEmail
+
+Ottiene l'email del cliente specificato.
+
+- **URL:** `/api?type=auth&method=getClientEmail&idClient=${globalId}`
+- **Parametri:** `globalId`
+
+#### editClientEmail
+
+Modifica l'email del cliente.
+
+- **URL:** `/api?type=auth&method=editClientEmail`
+- **Parametri:** Nessuno
+
+#### editClientPassw
+
+Modifica la password del cliente.
+
+- **URL:** `/api?type=auth&method=editClientPassw`
+- **Parametri:** Nessuno
+
+#### deleteClient
+
+Elimina il cliente.
+
+- **URL:** `/api?type=auth&method=delete&authState=client`
+- **Parametri:** Nessuno
+
+#### loginClient
+
+Esegue il login per il cliente.
+
+- **URL:** `/api?type=auth&method=login&authState=client`
+- **Parametri:** Nessuno
+
+#### dynamicClientMethod
+
+Esegue una richiesta dinamica del client basata sul metodo specificato.
+
+- **URL:** `/api?type=auth&method=${apiMethod}&authState=client`
+- **Parametri:** `apiMethod`
 
 
 
