@@ -73,7 +73,8 @@ App Multi Platform in React-Native che gestisce le richieste con un server web
 2. [Prototyping ](#prototyping)
 3. [Testing](#testing)
 4. [Distribuzione Locale](#distribuzione-locale)
-5. [Albero di Path](#albero-di-path)
+5. [API](#api)
+6. [Albero di Path](#albero-di-path)
 
 
 
@@ -120,6 +121,21 @@ La fase di prototyping è stata elaborata tramite gli strumenti offerti da [Figm
 | Versioni Future | [React Navigation](https://www.npmjs.com/package/@react-navigation/native)| [Axios](https://www.npmjs.com/package/axios)| [AsyncStorage](https://www.npmjs.com/package/@react-native-async-storage/async-storage)| [crypto-js](https://www.npmjs.com/package/crypto-js)|
 
 
+### API
+
+| Nome API                 | Parametri                       | URL                                                                                        | Descrizione                                          |
+|--------------------------|----------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------|
+| getBookingsDataApp       | `globalId`                      | /api?type=book&method=getBookingsDataApp&clientId=${globalId}                               | Ottiene i dati delle prenotazioni per il cliente specificato          |
+| getHotelsDataApp         | Nessuno                         | /api?type=hotel&method=getHotelsDataApp                                                    | Ottiene i dati di tutti gli hotel                                      |
+| getHotelDataApp          | `idAlbergo`                     | /api?type=hotel&method=getHotelDataApp&idHotel=${idAlbergo}                                 | Ottiene i dati di un hotel specifico                                   |
+| newbooking               | Nessuno                         | /api?type=book&method=newbooking                                                           | Crea una nuova prenotazione                                            |
+| getHotelRoomsDataApp     | `idAlbergo`                     | /api?type=room&method=getHotelRoomsDataApp&idHotel=${idAlbergo}                             | Ottiene i dati delle stanze di un hotel specifico                      |
+| getClientEmail           | `globalId`                      | /api?type=auth&method=getClientEmail&idClient=${globalId}                                   | Ottiene l'email del cliente specificato                                |
+| editClientEmail          | Nessuno                         | /api?type=auth&method=editClientEmail                                                      | Modifica l'email del cliente                                           |
+| editClientPassw          | Nessuno                         | /api?type=auth&method=editClientPassw                                                      | Modifica la password del cliente                                       |
+| deleteClient             | Nessuno                         | /api?type=auth&method=delete&authState=client                                              | Elimina il cliente                                                     |
+| loginClient              | Nessuno                         | /api?type=auth&method=login&authState=client                                               | Esegue il login per il cliente                                         |
+| dynamicClientMethod      | `apiMethod`                     | /api?type=auth&method=${apiMethod}&authState=client                                        | Esegue una richiesta dinamica del client basata sul metodo specificato |
 
 
 
