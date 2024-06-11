@@ -11,6 +11,7 @@ Applicazione Android e IOS per prenotare le stanze di un Hotel
 1. [Riepilogo Prodotto](#riepilogo-prodotto)
 2. [Casi d'uso](#casi-duso)
 3. [Riepilogo Tecnico](#riepilogo-tecnico)
+4. [Implementazioni Future](#implementazioni-future)
 
 
 
@@ -112,13 +113,6 @@ La fase di prototyping è stata elaborata tramite gli strumenti offerti da [Figm
   2. Si caricano i file sorgente sostituendo quelli già presenti
   3. Si segue la guida per il caricamento dei font ([link](https://medium.com/@lewie9021/custom-fonts-in-react-native-85d814ca084))
     
-
-### Implementazioni Future
-
-| Libreria| Routing tra le schermate| Richieste HTTPS| Token di accesso| Sicurezza dei dati|
-| ------------| ------------ | ------------ | ------------ | ------------ | 
-| Versione Attuale | Nessuna| Fetch | Nessuna| Nessuna |
-| Versioni Future | [React Navigation](https://www.npmjs.com/package/@react-navigation/native)| [Axios](https://www.npmjs.com/package/axios)| [AsyncStorage](https://www.npmjs.com/package/@react-native-async-storage/async-storage)| [crypto-js](https://www.npmjs.com/package/crypto-js)|
 
 
 ### API
@@ -241,5 +235,14 @@ $ tree
     └── App.tsx
 
 ```
+
+
+
+### Implementazioni Future
+
+| Libreria| Routing tra le schermate| Richieste HTTPS| Token di accesso| Sicurezza dei dati|
+| ------------| ------------ | ------------ | ------------ | ------------ | 
+| Versione Attuale | Nessuna| Fetch | Nessuna| Nessuna |
+| Versioni Future | [React Navigation](https://www.npmjs.com/package/@react-navigation/native)| [Axios](https://www.npmjs.com/package/axios)| [AsyncStorage](https://www.npmjs.com/package/@react-native-async-storage/async-storage)| [crypto-js](https://www.npmjs.com/package/crypto-js)|
 
 
