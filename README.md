@@ -121,7 +121,7 @@ La fase di prototyping è stata elaborata tramite gli strumenti offerti da [Figm
 | Versioni Future | [React Navigation](https://www.npmjs.com/package/@react-navigation/native)| [Axios](https://www.npmjs.com/package/axios)| [AsyncStorage](https://www.npmjs.com/package/@react-native-async-storage/async-storage)| [crypto-js](https://www.npmjs.com/package/crypto-js)|
 
 
-### Script API
+### API
 
 #### getBookingsDataApp
 
