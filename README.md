@@ -9,7 +9,7 @@
 Applicazione per prenotare le stanze di un Hotel
 
 > [!TIP]
-> Compatibile con Android e IOS
+> Compatibilità **Multiplatform** con **Android** e **IOS**
 
 ### Indice
 
