@@ -8,6 +8,9 @@
 
 Applicazione Android e IOS per prenotare le stanze di un Hotel
 
+> [!TIP]
+> Compatibile con Android e IOS
+
 ### Indice
 
 1. [Riepilogo Prodotto](#riepilogo-prodotto)
