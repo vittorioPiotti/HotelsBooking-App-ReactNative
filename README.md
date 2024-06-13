@@ -6,7 +6,7 @@
 
 # Gestione Hotels
 
-Applicazione Android e IOS per prenotare le stanze di un Hotel
+Applicazione per prenotare le stanze di un Hotel
 
 > [!TIP]
 > Compatibile con Android e IOS
