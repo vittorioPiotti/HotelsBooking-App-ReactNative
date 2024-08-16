@@ -1,3 +1,17 @@
+/*
+ * Gestione Hotels App v1.0.0 (https://github.com/vittorioPiotti/Gestione-Hotels-App/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Gestione-Hotels-App/blob/main/LICENSE.md)
+ */
+
+
+/*
+  React Native v0.74.0 (https://github.com/facebook/react-native/releases/tag/v0.74.0)
+  Copyright Facebook, Inc.
+  Licensed under MIT (https://github.com/facebook/react-native/blob/main/LICENSE)
+*/
+
+
 import React, { useState,useEffect } from 'react';
 import { View,StyleSheet, Text,ImageBackground ,Image,TouchableOpacity,ScrollView} from 'react-native';
 import Header from '../../layouts/Header';
