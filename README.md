@@ -192,3 +192,10 @@ $ tree
 | Versioni Future | [React Navigation](https://www.npmjs.com/package/@react-navigation/native)| [Axios](https://www.npmjs.com/package/axios)| [AsyncStorage](https://www.npmjs.com/package/@react-native-async-storage/async-storage)| [crypto-js](https://www.npmjs.com/package/crypto-js)|
 
 
+
+## Licenze
+| Componente         | Versione  | Copyright                         | Licenza                                                       |
+|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
+| Gestione Hotels App | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0 License](https://github.com/vittorioPiotti/Music-Player/blob/main/LICENSE.md) |
+| Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
+
