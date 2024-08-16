@@ -7,7 +7,7 @@
 */
 
 //ImageSourcePropType definisce  il dato come fonte di immagine 
-import { ImageSourcePropType } from 'react-native';                         
+import { ImageSourcePropType } from 'react-native';
 
 
 const IMGPATH:string = '../../assets/images/';                              //radice del percorso 
@@ -25,10 +25,10 @@ export const BG10: ImageSourcePropType = require(`${IMGPATH}bg10.png`);     //im
 
 //immagini
 export const IMG07: ImageSourcePropType = require(`${IMGPATH}google.png`)    //logo google
-export const IMG10: ImageSourcePropType = require(`${IMGPATH}arrowshape.turn.up.left.png`);   //indietro grigio
+export const IMG10: ImageSourcePropType = require(`${IMGPATH}arrowshape.turn.up.left.jpg`);   //indietro grigio
 
-export const IMG51: ImageSourcePropType = require(`${IMGPATH}arrowshape.turn.up.left.blue.png`);   //indietro blue
-export const IMG52: ImageSourcePropType = require(`${IMGPATH}info.circle.blue.png`);   //info blu
+export const IMG51: ImageSourcePropType = require(`${IMGPATH}arrowshape.turn.up.left.blue.jpg`);   //indietro blue
+export const IMG52: ImageSourcePropType = require(`${IMGPATH}info.circle.blue.jpg`);   //info blu
 export const IMG53: ImageSourcePropType = require(`${IMGPATH}clock.link.png`);   //orologio link
 export const IMG54: ImageSourcePropType = require(`${IMGPATH}location.circle.link.png`);   //navigation link
 export const IMG55: ImageSourcePropType = require(`${IMGPATH}phone.circle.link.png`);   //phone link
@@ -38,43 +38,43 @@ export const IMG57: ImageSourcePropType = require(`${IMGPATH}map.png`);   //mapp
 export const IMG66: ImageSourcePropType = require(`${IMGPATH}lessthan.circle.png`);   //freccia destra
 export const IMG67: ImageSourcePropType = require(`${IMGPATH}greaterthan.circle.png`);   //freccia sinistra
 
-export const IMG70: ImageSourcePropType = require(`${IMGPATH}calendar.png`);   //calendario
+export const IMG70: ImageSourcePropType = require(`${IMGPATH}calendar.jpg`);   //calendario
 export const IMG71: ImageSourcePropType = require(`${IMGPATH}paypal.png`);   //logo paypal
-export const IMG72: ImageSourcePropType = require(`${IMGPATH}creditcard.png`);   //icona carta di credito
+export const IMG72: ImageSourcePropType = require(`${IMGPATH}credit-card.jpg`);   //icona carta di credito
 
-export const IMG89: ImageSourcePropType = require(`${IMGPATH}exclamationmark.triangle.fill.png`);//icona avvertimento
+export const IMG89: ImageSourcePropType = require(`${IMGPATH}exclamation.triangle.fill.png`);//icona avvertimento
 
 export const IMG73: ImageSourcePropType = require(`${IMGPATH}visa.png`);   //logo visa
 export const IMG74: ImageSourcePropType = require(`${IMGPATH}mastercard.png`);   //logo mastercard
 export const IMG75: ImageSourcePropType = require(`${IMGPATH}americanExpress.png`);   //american express
 
-export const IMG80: ImageSourcePropType = require(`${IMGPATH}chevron.up.chevron.down.png`);   //freccia in basso 
+export const IMG80: ImageSourcePropType = require(`${IMGPATH}chevron.up.chevron.down.jpg`);   //freccia in basso 
 
 
-export const IMG16: ImageSourcePropType = require(`${IMGPATH}magnifyingglass.png`);   //lente di ingrandimento
-export const IMG21: ImageSourcePropType = require(`${IMGPATH}star.fill.png`);   //stella none
-export const IMG22: ImageSourcePropType = require(`${IMGPATH}star.fill.yellow.png`);   //stella 
+export const IMG16: ImageSourcePropType = require(`${IMGPATH}magnifyingglass.jpg`);   //lente di ingrandimento
+export const IMG21: ImageSourcePropType = require(`${IMGPATH}star.fill.jpg`);   //stella none
+export const IMG22: ImageSourcePropType = require(`${IMGPATH}star.fill.yellow.jpg`);   //stella 
 
 
 //features
-export const IMG03: ImageSourcePropType = require(`${IMGPATH}person.png`);   //profilo
-export const IMG04: ImageSourcePropType = require(`${IMGPATH}person.fill.png`);   //profilo fill
-export const IMG05: ImageSourcePropType = require(`${IMGPATH}location.png`);   //navigazione
-export const IMG15: ImageSourcePropType = require(`${IMGPATH}location.fill.png`);   //navigazione fill
-export const IMG06: ImageSourcePropType = require(`${IMGPATH}cart.png`);   //carrello
-export const IMG99: ImageSourcePropType = require(`${IMGPATH}cart.fill.png`);   //carrello
+export const IMG03: ImageSourcePropType = require(`${IMGPATH}person.jpg`);   //profilo
+export const IMG04: ImageSourcePropType = require(`${IMGPATH}person.fill.jpg`);   //profilo fill
+export const IMG05: ImageSourcePropType = require(`${IMGPATH}location.jpg`);   //navigazione
+export const IMG15: ImageSourcePropType = require(`${IMGPATH}location.fill.jpg`);   //navigazione fill
+export const IMG06: ImageSourcePropType = require(`${IMGPATH}cart.jpg`);   //carrello
+export const IMG99: ImageSourcePropType = require(`${IMGPATH}cart.fill.jpg`);   //carrello
 
 //attivita
-export const IMG23: ImageSourcePropType = require(`${IMGPATH}fork.knife.png`);   //ristorante none
-export const IMG28: ImageSourcePropType = require(`${IMGPATH}fork.knife.blue.png`);   //ristorante 
-export const IMG24: ImageSourcePropType = require(`${IMGPATH}cup.and.saucer.png`);   //bar none
-export const IMG29: ImageSourcePropType = require(`${IMGPATH}cup.and.saucer.blue.png`);   //bar 
-export const IMG25: ImageSourcePropType = require(`${IMGPATH}party.popper.png`);   //eventi none
-export const IMG30: ImageSourcePropType = require(`${IMGPATH}party.popper.blue.png`);   //eventi 
-export const IMG26: ImageSourcePropType = require(`${IMGPATH}sportscourt.png`);   //sport none
-export const IMG31: ImageSourcePropType = require(`${IMGPATH}sportscourt.blue.png`);   //sport 
-export const IMG40: ImageSourcePropType = require(`${IMGPATH}bed.double.png`);   //stanze none
-export const IMG41: ImageSourcePropType = require(`${IMGPATH}bed.double.blue.png`);   //stanze 
+export const IMG23: ImageSourcePropType = require(`${IMGPATH}fork.knife.jpg`);   //ristorante none
+export const IMG28: ImageSourcePropType = require(`${IMGPATH}fork.knife.blue.jpg`);   //ristorante 
+export const IMG24: ImageSourcePropType = require(`${IMGPATH}cup.and.saucer.jpg`);   //bar none
+export const IMG29: ImageSourcePropType = require(`${IMGPATH}cup.and.saucer.blue.jpg`);   //bar 
+export const IMG25: ImageSourcePropType = require(`${IMGPATH}party.popper.jpg`);   //eventi none
+export const IMG30: ImageSourcePropType = require(`${IMGPATH}party.popper.blue.jpg`);   //eventi 
+export const IMG26: ImageSourcePropType = require(`${IMGPATH}sportscourt.jpg`);   //sport none
+export const IMG31: ImageSourcePropType = require(`${IMGPATH}sportscourt.blue.jpg`);   //sport 
+export const IMG40: ImageSourcePropType = require(`${IMGPATH}bed.double.jpg`);   //stanze none
+export const IMG41: ImageSourcePropType = require(`${IMGPATH}bed.double.blue.jpg`);   //stanze 
 
 
 
@@ -118,5 +118,8 @@ export const _IMG35:number = 35;
 export const _IMG36:number = 36;
 export const _IMG37:number = 37;
 export const _IMG99:number = 99;   //carrello
+
+
+
 
 
