@@ -12,6 +12,14 @@
 */
 
 
+/**
+ * @access public
+ * @package src.scripts.features.navigation
+ * @author Vittorio Piotti
+ * @class Hotel.tsx
+ * @description Schermata dell'hotel specifico che è stato selezionato
+*/
+
 import React, { useState,useEffect } from 'react';
 import { View,StyleSheet, Text,ImageBackground ,Image,TouchableOpacity,ScrollView} from 'react-native';
 import Header from '../../layouts/Header';
