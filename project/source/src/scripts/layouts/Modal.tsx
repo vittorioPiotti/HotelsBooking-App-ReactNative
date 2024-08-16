@@ -1,3 +1,9 @@
+/*
+ * Gestione Hotels App v1.0.0 (https://github.com/vittorioPiotti/Gestione-Hotels-App/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Gestione-Hotels-App/blob/main/LICENSE.md)
+ */
+
 /**
  * @access public
  * @package src.scripts.layouts
@@ -5,6 +11,8 @@
  * @class Modal.tsx
  * @description Modal a comparsa per errore relativo ai permessi di accesso e al rilevamento di nessuna prenotazione effettuata
 */
+
+
 
 
 import React from 'react';
