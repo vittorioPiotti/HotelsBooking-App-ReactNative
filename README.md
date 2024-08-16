@@ -7,7 +7,7 @@
 # Gestione Hotels
 
 
-Link a server di Gestione Hotels: [(link)](https://github.com/vittorioPiotti/Gestione-Hotels-App)
+Link al Server di Gestione Hotels: [(link)](https://github.com/vittorioPiotti/Gestione-Hotels-Server)
 
 
 Applicazione per prenotare le stanze di un Hotel
