@@ -50,16 +50,9 @@ Applicazione Android e IOS per la prenotazione delle stanze di un hotel.
   Un cliente può prenotare la stanza di un albergo scegliendo tra le stanze degli alberghi forniti.
 
 
-### Copyright
-
-> [!CAUTION]
-> L’utilizzo e la distribuzione dell’app o delle sue risorse può violare il copyright.
-> Non è stata verificata la conformità dell’app e delle sue risorse alle varie licenze.
-> Le immagini di hotel e stanze sono state scaricate da internet.
-> Molte delle icone sono copie di quelle fornite da SF Symbols.
 
 
-## Casi d'Uso
+### Casi d'Uso
 
 Le schermate sono state acquisite da dispositivo fisico IOS: Iphone 14 Plus
 
