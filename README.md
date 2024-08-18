@@ -207,8 +207,8 @@ $ tree
 | React Native           | v0.74.0  | Facebook, Inc.       | [MIT License](https://github.com/facebook/react-native/blob/main/LICENSE)                         |
 | NunitoSans           |   | googlefonts       | [OFL License](https://github.com/googlefonts/NunitoSans/blob/main/OFL.txt)        
 
-> [!INFO]
-> Di **Bootstrap*** sono state utilizzate solo le icone|
+> [!NOTE]
+> Di **Bootstrap*** sono state utilizzate solo le icone
 
 
 
