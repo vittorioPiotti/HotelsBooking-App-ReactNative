@@ -120,23 +120,37 @@ La fase di prototyping è stata elaborata tramite gli strumenti offerti da [Figm
   2. Si caricano i file sorgente sostituendo quelli già presenti
   3. Si segue la guida per il caricamento dei font ([link](https://medium.com/@lewie9021/custom-fonts-in-react-native-85d814ca084))
     
-
-
 ### API
 
-| Nome API                | URL                                          | Parametri                           | Descrizione                                                                    |
-|-------------------------|----------------------------------------------|-------------------------------------|--------------------------------------------------------------------------------|
-| **getBookingsDataApp**  | `/api?type=book&method=getBookingsDataApp`   | `clientId=${globalId}`              | Ottiene i dati delle prenotazioni per il cliente specificato.                  |
-| **getHotelsDataApp**    | `/api?type=hotel&method=getHotelsDataApp`    | Nessuno                             | Ottiene i dati di tutti gli hotel.                                             |
-| **getHotelDataApp**     | `/api?type=hotel&method=getHotelDataApp`     | `idHotel=${idAlbergo}`              | Ottiene i dati di un hotel specifico.                                           |
-| **newbooking**          | `/api?type=book&method=newbooking`           | Nessuno                             | Crea una nuova prenotazione.                                                   |
-| **getHotelRoomsDataApp**| `/api?type=room&method=getHotelRoomsDataApp` | `idHotel=${idAlbergo}`              | Ottiene i dati delle stanze di un hotel specifico.                               |
-| **getClientEmail**      | `/api?type=auth&method=getClientEmail`       | `idClient=${globalId}`              | Ottiene l'email del cliente specificato.                                         |
-| **editClientEmail**     | `/api?type=auth&method=editClientEmail`      | Nessuno                             | Modifica l'email del cliente.                                                  |
-| **editClientPassw**     | `/api?type=auth&method=editClientPassw`      | Nessuno                             | Modifica la password del cliente.                                              |
-| **deleteClient**        | `/api?type=auth&method=delete`               | `authState=client`                  | Elimina il cliente.                                                             |
-| **loginClient**         | `/api?type=auth&method=login`                | `authState=client`                  | Esegue il login per il cliente.                                                 |
-| **dynamicClientMethod** | `/api?type=auth&method=${apiMethod}`         | Nessuno                             | Esegue una richiesta dinamica del client basata sul metodo specificato.         |
+| API BOOK |
+|----------|
+| **Name**: getBookingsDataApp<br>**Endpoint**: [type=book&method=getBookingsDataApp](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=book&method=getBookingsDataApp&clientId=123)<br>**Type**: GET<br>**Parametri**: `clientId=globalId`<br>**Descrizione**: Ottiene i dati delle prenotazioni per il cliente specificato. |
+
+| **Name**: newbooking<br>**Endpoint**: [type=book&method=newbooking](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=book&method=newbooking)<br>**Type**: POST<br>**Parametri**: Nessuno<br>**Descrizione**: Crea una nuova prenotazione. |
+
+| API HOTEL |
+|-----------|
+| **Name**: getHotelsDataApp<br>**Endpoint**: [type=hotel&method=getHotelsDataApp](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=hotel&method=getHotelsDataApp)<br>**Type**: GET<br>**Parametri**: Nessuno<br>**Descrizione**: Ottiene i dati di tutti gli hotel. |
+
+| **Name**: getHotelDataApp<br>**Endpoint**: [type=hotel&method=getHotelDataApp](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=hotel&method=getHotelDataApp&idHotel=1)<br>**Type**: GET<br>**Parametri**: `idHotel=idAlbergo`<br>**Descrizione**: Ottiene i dati di un hotel specifico. |
+
+| API ROOM |
+|----------|
+| **Name**: getHotelRoomsDataApp<br>**Endpoint**: [type=room&method=getHotelRoomsDataApp](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=room&method=getHotelRoomsDataApp&idHotel=1)<br>**Type**: GET<br>**Parametri**: `idHotel=idAlbergo`<br>**Descrizione**: Ottiene i dati delle stanze di un hotel specifico. |
+
+| API AUTH |
+|----------|
+| **Name**: getClientEmail<br>**Endpoint**: [type=auth&method=getClientEmail](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=auth&method=getClientEmail&idClient=123)<br>**Type**: GET<br>**Parametri**: `idClient=globalId`<br>**Descrizione**: Ottiene l'email del cliente specificato. |
+
+| **Name**: editClientEmail<br>**Endpoint**: [type=auth&method=editClientEmail](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=auth&method=editClientEmail)<br>**Type**: POST<br>**Parametri**: Nessuno<br>**Descrizione**: Modifica l'email del cliente. |
+
+| **Name**: editClientPassw<br>**Endpoint**: [type=auth&method=editClientPassw](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=auth&method=editClientPassw)<br>**Type**: POST<br>**Parametri**: Nessuno<br>**Descrizione**: Modifica la password del cliente. |
+
+| **Name**: deleteClient<br>**Endpoint**: [type=auth&method=delete](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=auth&method=delete&authState=client)<br>**Type**: POST<br>**Parametri**: `authState=client`<br>**Descrizione**: Elimina il cliente. |
+
+| **Name**: loginClient<br>**Endpoint**: [type=auth&method=login](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=auth&method=login&authState=client)<br>**Type**: POST<br>**Parametri**: `authState=client`<br>**Descrizione**: Esegue il login per il cliente. |
+
+| **Name**: dynamicClientMethod<br>**Endpoint**: [type=auth&method=${apiMethod}](https://vittoriopiotti.altervista.org/GestioneHotels/Online/Server/index.php?type=auth&method=${apiMethod})<br>**Type**: POST<br>**Parametri**: Nessuno<br>**Descrizione**: Esegue una richiesta dinamica del client basata sul metodo specificato. |
 
 
 ### Albero di Path
