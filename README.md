@@ -24,6 +24,10 @@ Applicazione per prenotare le stanze di un Hotel
 > [!TIP]
 > Compatibilità **Multiplatform** con **Android** e **IOS**
 
+### Support Me
+
+[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
+
 
 ### Indice
 
