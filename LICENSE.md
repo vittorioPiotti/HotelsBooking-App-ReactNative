@@ -2,7 +2,7 @@
 
 Version 3, 29 June 2007
 
-Copyright (C) 2024 Hotel Booking App author Vittorio Piotti
+Copyright (C) 2024 HotelsBooking App author Vittorio Piotti
 <https://vittoriopiotti.altervista.org/>
 
 Everyone is permitted to copy and distribute verbatim copies of this
