@@ -216,7 +216,7 @@ $ tree
 | NunitoSans           |   | googlefonts       | [OFL License](https://github.com/googlefonts/NunitoSans/blob/main/OFL.txt)        
 
 > [!NOTE]
-> Di **Bootstrap*** sono state utilizzate solo le icone
+> Di **Bootstrap*** sono state utilizzate solo le icone SVG
 
 
 
