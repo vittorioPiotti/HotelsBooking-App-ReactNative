@@ -214,7 +214,7 @@ $ tree
 | NunitoSans           |   | googlefonts       | [OFL](https://github.com/googlefonts/NunitoSans/blob/main/OFL.txt)        
 
 > [!NOTE]
-> Icone SVG di **Bootstrap*** 
+> Icone SVG di **Bootstrap**
 
 
 
