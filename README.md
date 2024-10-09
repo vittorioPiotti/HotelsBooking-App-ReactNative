@@ -208,8 +208,8 @@ $ tree
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [HotelsBookingApp](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative) | [v1.0.0](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | 
-[GPL-3.0 ](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative/blob/main/LICENSE.md) | Calendar | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0](https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/LICENSE.md) |
+| [HotelsBookingApp](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative) | [v1.0.0](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative/blob/main/LICENSE.md) |
+Calendar | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0](https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/LICENSE.md) |
 | Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
 | React Native           | v0.74.0  | Facebook, Inc.       | [MIT](https://github.com/facebook/react-native/blob/main/LICENSE)                         |
 | NunitoSans           |   | googlefonts       | [OFL](https://github.com/googlefonts/NunitoSans/blob/main/OFL.txt)        
