@@ -204,20 +204,55 @@ $ tree
 > 
 > I contenuti multimediali possono essere soggetti a una **licenza non commerciale** richiedendo l'acquisto di una licenza separata.
 
-
-
-| Componente         | Versione  | Copyright                         | Licenza                                                       |
-|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [HotelsBookingApp](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative) | [v1.0.0](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative/blob/main/LICENSE.md) |
-Calendar | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0](https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/LICENSE.md) |
-| Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
-| React Native           | v0.74.0  | Facebook, Inc.       | [MIT](https://github.com/facebook/react-native/blob/main/LICENSE)                         |
-| NunitoSans           |   | googlefonts       | [OFL](https://github.com/googlefonts/NunitoSans/blob/main/OFL.txt)        
-
 > [!NOTE]
 > Icone SVG di **Bootstrap**
 
+### HotelsBookingApp
+
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative/releases/tag/v1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/HotelsBooking-App-ReactNative/blob/main/LICENSE.md)
+
+---
+
+### Calendar
+
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/Calendar-Widget-ReactNative/releases/tag/1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/Calendario-React-Native/blob/main/LICENSE.md)
+
+---
 
 
+### Bootstrap Icons
+
+**Copyright** 2011-2018 The Bootstrap Authors 
+
+**Version** [v1.11.0](https://blog.getbootstrap.com/2023/09/12/bootstrap-icons-1-11-0/)
+
+**License** [MIT](https://github.com/twbs/icons/blob/main/LICENSE)
 
 
+---
+
+### React Native
+
+**Copyright** Facebook, Inc.
+
+**Version** [v0.74.0](https://reactnative.dev/blog/2024/04/22/release-0.74)
+
+**License** [MIT](https://github.com/facebook/react-native/blob/main/LICENSE)
+
+---
+
+### NunitoSans
+
+**Copyright** 2016 The Nunito Sans Project Authors 
+
+**License** [OFL](https://github.com/googlefonts/NunitoSans/blob/main/OFL.txt)
+
+---
