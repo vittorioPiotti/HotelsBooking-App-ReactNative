@@ -16,12 +16,7 @@ Applicazione per prenotare le stanze di un Hotel
 > Progetto scolastico
 
 
-> [!TIP]
-> Corretto funzionamento garantito
 
-
-> [!TIP]
-> Compatibilità **Multiplatform** con **Android** e **IOS**
 
 #### Support Me
 
