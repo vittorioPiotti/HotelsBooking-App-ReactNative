@@ -13,7 +13,7 @@ Link al Server di Gestione Hotels: [(link)](https://github.com/vittorioPiotti/Ge
 Applicazione per prenotare le stanze di un Hotel
 
 > [!NOTE]
-> Progetto scolastico
+> Progetto scolastico 🎓
 
 
 
